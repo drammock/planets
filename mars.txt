@@ -4,3 +4,4 @@ Year is 687 Earth days.
 Day is 24:37 Earth hours:minutes.
 Mean temperature is -63C.
 There are some nice rocks.
+Collaborator adding a change.
